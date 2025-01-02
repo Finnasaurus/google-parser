@@ -1,0 +1,1 @@
+This project began as a simple script to speed up my workflow at work as I was tasked to find potential business clients for my company. Therefore, to prevent myself from investing too much time into this, I searched up the most recommended Search Engine Results Page (SERP) API that was available, and in this case, it was SerpApi.
